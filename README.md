@@ -1,12 +1,12 @@
 ## 艦これ画面フィットスクリプト KancolleFit
 
 2018年8月に艦これがHTML5化した際、スマホで快適にプレイできるように作成したブックマークレットです。
-ゲーム画面を拡縮してブラウザの表示領域にフィットさせます。
+ゲーム画面を拡縮してブラウザの表示領域にフィットさせます。  
 https://twitter.com/escapist_uco/status/1030493251361374208
 
-**作成時から艦これの仕様が変わっており、iOS15以降では動作しないようです。**
-その場合は修正コードを作成された方がいるので、そちらをご利用ください。
-https://kininaruberu.com/kancollearekore/iphone_fullscreen
+**作成時から艦これの仕様が変わっており、iOS15以降では動作しないようです。**  
+その場合は修正コードを作成された方がいるので、そちらをご利用ください。  
+<a href="https://kininaruberu.com/kancollearekore/iphone_fullscreen" target="_blank">https://kininaruberu.com/kancollearekore/iphone_fullscreen</a>
 
 ### 使用方法
 
@@ -18,4 +18,4 @@ PCブラウザでも使用できます。
 
 ### ライセンス
 
-MIT
+[MIT](https://github.com/escapism/KancolleFit/blob/main/LICENSE)
